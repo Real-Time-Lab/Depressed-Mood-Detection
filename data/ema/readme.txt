@@ -1,0 +1,1 @@
+average activities instead of count

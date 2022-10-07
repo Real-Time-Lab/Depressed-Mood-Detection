@@ -1,0 +1,85 @@
+,uid,type,Little interest or pleasure in doing things,"Feeling down, depressed, hopeless.","Trouble falling or staying asleep, or sleeping too much.",Feeling tired or having little energy,Poor appetite or overeating,Feeling bad about yourself or that you are a failure or have let yourself or your family down,"Trouble concentrating on things, such as reading the newspaper or watching television",Moving or speaking so slowly that other people could have noticed. Or the opposite being so figety or restless that you have been moving around a lot more than usual,"Thoughts that you would be better off dead, or of hurting yourself",Response,phq score,depression severity,dp_grade,dp_class
+0,u00,pre,Not at all,Several days,Not at all,Several days,Not at all,Not at all,Not at all,Not at all,Not at all,Not difficult at all,2,minimal,0.0,0
+1,u01,pre,Several days,Several days,Several days,Several days,Not at all,Several days,Not at all,Not at all,Not at all,Very difficult,5,mild,1.0,0
+2,u02,pre,More than half the days,Several days,More than half the days,More than half the days,More than half the days,Several days,Several days,More than half the days,Not at all,Somewhat difficult,13,moderate,2.0,1
+3,u03,pre,Not at all,Several days,Not at all,Not at all,Not at all,Not at all,Not at all,Several days,Not at all,Somewhat difficult,2,minimal,0.0,0
+4,u04,pre,Several days,Several days,Not at all,Several days,Several days,Several days,Several days,Not at all,Not at all,Somewhat difficult,6,mild,1.0,0
+5,u05,pre,Not at all,Not at all,Several days,Not at all,Several days,Not at all,Not at all,Not at all,Not at all,,2,minimal,0.0,0
+6,u07,pre,Several days,Several days,Not at all,Several days,More than half the days,Several days,Several days,Not at all,Not at all,Not difficult at all,7,mild,1.0,0
+7,u08,pre,Several days,Several days,Not at all,Not at all,Several days,Several days,Several days,Not at all,Not at all,Not difficult at all,5,mild,1.0,0
+8,u09,pre,Not at all,Not at all,Several days,Several days,Several days,Not at all,Several days,Not at all,Not at all,Not difficult at all,4,minimal,0.0,0
+9,u10,pre,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,,0,minimal,0.0,0
+10,u12,pre,Not at all,Not at all,Not at all,Several days,Not at all,Not at all,Not at all,Not at all,Not at all,Not difficult at all,1,minimal,0.0,0
+11,u13,pre,Not at all,Several days,Not at all,Several days,Several days,Several days,Not at all,Not at all,Not at all,Not difficult at all,4,minimal,0.0,0
+12,u14,pre,Not at all,Not at all,Not at all,Several days,Not at all,Not at all,Not at all,Not at all,Not at all,Not difficult at all,1,minimal,0.0,0
+13,u15,pre,Several days,Not at all,Not at all,Several days,Several days,Not at all,Not at all,Not at all,Not at all,Not difficult at all,3,minimal,0.0,0
+14,u16,pre,Several days,Several days,Several days,Not at all,Not at all,Nearly every day,Not at all,Not at all,Not at all,Somewhat difficult,6,mild,1.0,0
+15,u17,pre,Several days,Several days,Nearly every day,Nearly every day,Nearly every day,Several days,Not at all,Several days,Not at all,Somewhat difficult,13,moderate,2.0,1
+16,u18,pre,More than half the days,More than half the days,Several days,More than half the days,More than half the days,Nearly every day,Several days,Not at all,More than half the days,Very difficult,15,severe,3.0,1
+17,u19,pre,Several days,Several days,Not at all,Not at all,Several days,Several days,Not at all,Not at all,Several days,Somewhat difficult,5,mild,1.0,0
+18,u20,pre,Several days,Several days,Several days,Several days,Several days,Several days,Several days,Several days,Not at all,Somewhat difficult,8,mild,1.0,0
+19,u22,pre,Not at all,Several days,Several days,Not at all,Not at all,Several days,Not at all,Not at all,Not at all,Not difficult at all,3,minimal,0.0,0
+20,u23,pre,Several days,More than half the days,Several days,More than half the days,Several days,More than half the days,More than half the days,Not at all,Not at all,Somewhat difficult,11,moderate,2.0,1
+21,u24,pre,Several days,Several days,Several days,Several days,Several days,Not at all,Not at all,Not at all,Not at all,Somewhat difficult,5,mild,1.0,0
+22,u27,pre,Not at all,Not at all,More than half the days,Several days,Not at all,Not at all,More than half the days,Not at all,Not at all,Somewhat difficult,5,mild,1.0,0
+23,u30,pre,Not at all,Not at all,Several days,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not difficult at all,1,minimal,0.0,0
+24,u31,pre,More than half the days,Several days,Several days,Several days,Several days,More than half the days,Several days,Several days,More than half the days,Somewhat difficult,12,moderate,2.0,1
+25,u32,pre,Not at all,Not at all,More than half the days,Several days,Several days,Not at all,Not at all,Not at all,Not at all,Not difficult at all,4,minimal,0.0,0
+26,u33,pre,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,More than half the days,Not at all,Extremely difficult,23,severe,3.0,1
+27,u34,pre,Not at all,Not at all,Several days,Not at all,Several days,Several days,Not at all,Not at all,Not at all,Not difficult at all,3,minimal,0.0,0
+28,u35,pre,Several days,Several days,Several days,Several days,Several days,Several days,Several days,Not at all,Not at all,Somewhat difficult,7,mild,1.0,0
+29,u36,pre,Several days,Not at all,Not at all,Several days,Not at all,Not at all,Not at all,Not at all,Not at all,Not difficult at all,2,minimal,0.0,0
+30,u39,pre,Not at all,Not at all,Not at all,Several days,Not at all,Several days,Not at all,Several days,Not at all,Somewhat difficult,3,minimal,0.0,0
+31,u42,pre,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Several days,Not at all,Not at all,Not difficult at all,1,minimal,0.0,0
+32,u43,pre,Several days,Several days,Several days,Several days,Several days,Several days,Several days,Not at all,Not at all,Somewhat difficult,7,mild,1.0,0
+33,u44,pre,Not at all,Not at all,Not at all,Several days,Not at all,Not at all,Not at all,Not at all,Not at all,Somewhat difficult,1,minimal,0.0,0
+34,u45,pre,Several days,Several days,More than half the days,Several days,Several days,Several days,Not at all,Not at all,Not at all,Not difficult at all,7,mild,1.0,0
+35,u46,pre,More than half the days,Several days,More than half the days,Several days,Several days,More than half the days,Several days,Not at all,Not at all,Somewhat difficult,10,moderate,2.0,1
+36,u47,pre,More than half the days,Several days,Not at all,Not at all,Not at all,Not at all,More than half the days,Not at all,Not at all,Not difficult at all,5,mild,1.0,0
+37,u49,pre,Not at all,Not at all,Not at all,Several days,Several days,Not at all,Not at all,Not at all,Not at all,Somewhat difficult,2,minimal,0.0,0
+38,u50,pre,Not at all,Several days,Not at all,More than half the days,Several days,Several days,Not at all,Several days,Several days,Not difficult at all,7,mild,1.0,0
+39,u51,pre,Not at all,Not at all,Not at all,Several days,Not at all,Not at all,Not at all,Not at all,Not at all,Not difficult at all,1,minimal,0.0,0
+40,u52,pre,Several days,Several days,Nearly every day,Nearly every day,Nearly every day,Several days,Not at all,Not at all,Not at all,Not difficult at all,12,moderate,2.0,1
+41,u53,pre,Several days,Several days,More than half the days,More than half the days,Several days,Not at all,Several days,Not at all,Not at all,Somewhat difficult,8,mild,1.0,0
+42,u56,pre,Not at all,Not at all,Not at all,More than half the days,Not at all,Not at all,Not at all,Not at all,Not at all,Not difficult at all,2,minimal,0.0,0
+43,u57,pre,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not difficult at all,0,minimal,0.0,0
+44,u58,pre,Several days,Several days,Not at all,Not at all,Several days,Not at all,Several days,Several days,Not at all,Not difficult at all,5,mild,1.0,0
+45,u59,pre,Not at all,Not at all,Several days,More than half the days,Several days,Not at all,Not at all,Several days,Not at all,Not difficult at all,5,mild,1.0,0
+46,u00,post,Not at all,Not at all,Not at all,Several days,Not at all,Several days,Several days,Not at all,Not at all,Somewhat difficult,3,minimal,0.0,0
+47,u01,post,Not at all,Several days,Several days,Several days,Not at all,Not at all,Not at all,Several days,Not at all,Somewhat difficult,4,minimal,0.0,0
+48,u02,post,More than half the days,Not at all,Not at all,Several days,Several days,Not at all,Several days,Not at all,Not at all,Somewhat difficult,5,mild,1.0,0
+49,u03,post,Several days,Several days,Not at all,Several days,Not at all,Several days,Not at all,Not at all,Not at all,Somewhat difficult,4,minimal,0.0,0
+50,u04,post,Several days,Several days,Several days,Several days,Several days,More than half the days,Several days,Not at all,Not at all,Somewhat difficult,8,mild,1.0,0
+51,u05,post,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not difficult at all,0,minimal,0.0,0
+52,u07,post,Several days,Several days,More than half the days,More than half the days,More than half the days,Not at all,Not at all,Not at all,Not at all,Somewhat difficult,8,mild,1.0,0
+53,u09,post,Not at all,Not at all,Not at all,Not at all,Several days,Several days,Not at all,Not at all,Not at all,Not difficult at all,2,minimal,0.0,0
+54,u10,post,Not at all,Not at all,Not at all,Several days,Several days,Not at all,Not at all,More than half the days,Not at all,Not difficult at all,4,minimal,0.0,0
+55,u14,post,Not at all,Not at all,Several days,Several days,Several days,Not at all,Not at all,Not at all,Not at all,,3,minimal,0.0,0
+56,u15,post,Not at all,Not at all,Several days,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not difficult at all,1,minimal,0.0,0
+57,u16,post,Several days,More than half the days,More than half the days,Nearly every day,More than half the days,More than half the days,Not at all,Not at all,Not at all,Somewhat difficult,12,moderate,2.0,1
+58,u17,post,More than half the days,More than half the days,Nearly every day,Nearly every day,More than half the days,Nearly every day,Nearly every day,Not at all,Not at all,Somewhat difficult,18,severe,3.0,1
+59,u18,post,More than half the days,More than half the days,Several days,More than half the days,More than half the days,Several days,Several days,Not at all,Several days,Somewhat difficult,12,moderate,2.0,1
+60,u19,post,Not at all,Several days,Not at all,Not at all,Several days,Several days,Not at all,Not at all,Several days,Not difficult at all,4,minimal,0.0,0
+61,u20,post,Several days,More than half the days,Several days,Several days,Several days,More than half the days,Not at all,Not at all,Not at all,Somewhat difficult,8,mild,1.0,0
+62,u23,post,More than half the days,Nearly every day,Nearly every day,More than half the days,More than half the days,Nearly every day,More than half the days,More than half the days,More than half the days,Very difficult,21,severe,3.0,1
+63,u24,post,More than half the days,Several days,Not at all,Several days,Several days,Several days,Several days,Not at all,Not at all,Somewhat difficult,7,mild,1.0,0
+64,u27,post,Several days,Several days,Not at all,More than half the days,Not at all,Several days,More than half the days,Not at all,Not at all,Somewhat difficult,7,mild,1.0,0
+65,u30,post,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,,0,minimal,0.0,0
+66,u31,post,Nearly every day,Not at all,Not at all,Not at all,Not at all,Not at all,Several days,Several days,Not at all,Not difficult at all,5,mild,1.0,0
+67,u32,post,Not at all,Not at all,Several days,Several days,Not at all,Not at all,Not at all,Not at all,Not at all,Not difficult at all,2,minimal,0.0,0
+68,u33,post,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Several days,Extremely difficult,25,severe,3.0,1
+69,u34,post,Several days,Not at all,Several days,Several days,Several days,Not at all,More than half the days,Not at all,Not at all,Not difficult at all,6,mild,1.0,0
+70,u35,post,Several days,Several days,Not at all,Several days,Several days,Several days,Several days,Several days,Not at all,Not difficult at all,7,mild,1.0,0
+71,u36,post,Not at all,Not at all,Not at all,Several days,Not at all,Not at all,Not at all,Not at all,Not at all,Somewhat difficult,1,minimal,0.0,0
+72,u42,post,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not difficult at all,0,minimal,0.0,0
+73,u43,post,Not at all,Not at all,Several days,Several days,Several days,Not at all,Several days,Not at all,Not at all,Somewhat difficult,4,minimal,0.0,0
+74,u44,post,Several days,Not at all,Not at all,Several days,Not at all,Not at all,Not at all,Not at all,Not at all,Somewhat difficult,2,minimal,0.0,0
+75,u45,post,Not at all,Not at all,Several days,Not at all,Not at all,Not at all,Several days,Not at all,Not at all,Not difficult at all,2,minimal,0.0,0
+76,u47,post,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Several days,Not at all,Not difficult at all,1,minimal,0.0,0
+77,u49,post,Nearly every day,Not at all,More than half the days,More than half the days,Several days,Not at all,Not at all,Not at all,Not at all,Somewhat difficult,8,mild,1.0,0
+78,u51,post,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,,0,minimal,0.0,0
+79,u52,post,Several days,Nearly every day,Nearly every day,More than half the days,Nearly every day,Several days,Not at all,Several days,Several days,Extremely difficult,15,severe,3.0,1
+80,u53,post,Not at all,Several days,Nearly every day,More than half the days,Nearly every day,Not at all,More than half the days,Not at all,Not at all,Somewhat difficult,11,moderate,2.0,1
+81,u56,post,Not at all,Not at all,Not at all,More than half the days,Not at all,Not at all,Several days,Not at all,Not at all,Somewhat difficult,3,minimal,0.0,0
+82,u58,post,Not at all,Several days,Not at all,More than half the days,More than half the days,Several days,Several days,Several days,Not at all,Not difficult at all,8,mild,1.0,0
+83,u59,post,Not at all,Not at all,More than half the days,More than half the days,Several days,Not at all,Several days,Several days,Not at all,Somewhat difficult,7,mild,1.0,0
